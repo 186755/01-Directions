@@ -12,6 +12,7 @@ There is only one step that occurs pre-calving; however, this step is extremely 
 ### Immediately after calving
 #### Step 1
  - Apply udder comfort
+ 
 Continue to apply udder comfort to ensure the cow is as relaxed as possible after calving. 
 
 #### Step 2
