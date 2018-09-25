@@ -20,12 +20,20 @@ Continue to apply udder comfort to ensure the cow is as relaxed as possible afte
  
 Oxytocin is a hormone that induces milk letdown.  When a cow or heifer calves, she does not always produce enough oxytocin to fulfill her body’s need.  Farmers should give the cow this hormone shot because it will empty her udder of all the colostrum she produced for her calf to consume. 
 
-•	Give 2 BioFresh calcium boluses 
-•	Give 1 fresh cow bolus 
-o	Use a generic balling gun to administer the bolus to the cow.  Fresh cow boluses are given to cows because of the stress that the animal is going through during, and after calving.  The bolus is beneficial in three main ways. First, it supplies critical vitamins and minerals to supplement a cow’s variable intake.  Second, it maintains proper immune function by providing specialized proteins and microbial sugars; the yeast and enzymes in the bolus trigger a digestive response which boosts the cow’s immune system during this stressful time. Finally, the bolus aids in maintaining a low somatic cell count despite all the changes that are happening to the cow after freshening. 
-•	Take the cow's temperature.
-	Insert a glass thermometer into the cow's rectum and hold for one minute.  Normal body temperature for dairy cows should be 101.5 degrees Fahrenheit.  A farmer should always check the cow's temperature becuas ethis is generally one of the first indicators of sickness.  Fresh cows are at risk of coming down with illnesses before or after calving with little physical signs.  When a farmer takes the cow's temperature, he is ultimatly decresing the chance of an unexpected illness post-calving.   
-12 hours post calving
-•	1cc oxytocin
-24 hours post calving
-•	1 fresh cow bolus
+Give 2 BioFresh calcium boluses 
+
+Give 1 fresh cow bolus 
+
+Use a generic balling gun to administer the bolus to the cow.  Fresh cow boluses are given to cows because of the stress that the animal is going through during, and after calving.  The bolus is beneficial in three main ways. First, it supplies critical vitamins and minerals to supplement a cow’s variable intake.  Second, it maintains proper immune function by providing specialized proteins and microbial sugars; the yeast and enzymes in the bolus trigger a digestive response which boosts the cow’s immune system during this stressful time. Finally, the bolus aids in maintaining a low somatic cell count despite all the changes that are happening to the cow after freshening. 
+
+#### Take the cow's temperature.
+
+Insert a glass thermometer into the cow's rectum and hold for one minute.  Normal body temperature for dairy cows should be 101.5 degrees Fahrenheit.  A farmer should always check the cow's temperature becuas ethis is generally one of the first indicators of sickness.  Fresh cows are at risk of coming down with illnesses before or after calving with little physical signs.  When a farmer takes the cow's temperature, he is ultimatly decresing the chance of an unexpected illness post-calving.  
+
+#### 12 hours post calving
+
+- 1cc oxytocin
+
+#### 24 hours post calving
+
+- 1 fresh cow bolus
