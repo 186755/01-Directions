@@ -45,3 +45,15 @@ When the cow is about to be milked for the second time after calving, she still 
 
 After one full day post-calving, the cow is ready for her second BioFresh bolus.  The purpose of waiting 24 hours is to allow the first bolus to act.  By now, the first bolus has been used by the cow’s body. To boost her chances for a quick recovery and strengthen her immune system, a second bolus is essential.  
 
+# FAQ
+Q: Can I skip a step if I’m rushed?
+A: Never skip steps! The protocol is designed for every step to be followed to ensure optimum success. 
+
+Q: If the oxytocin doesn’t work, then what?
+A: Most of the time there are no issues with milk let-down using the shot.  If a cow refuses to let down her milk, simply try again in a few hours. By then, her natural hormones will become more alert again and she will have no problem letting it down on her own. 
+
+Q: What if a bolus breaks before I administer it to the cow?
+A: The boluses are designed to slowly release inside the cow; therefore, if one breaks beforehand, the cow’s body would not be able to use the nutrients over a period of time.  It is important to store the boluses in a place where they will not become damaged. 
+
+Q: Do any of the treatments require a milk withhold?
+A: None of the steps above require milk withholds; however, fresh cows do not need to go directly into the tank.  It is important to wait at least three days before milking a cow into the tank to ensure she has produced all of her colostrum and is now making normal milk.
