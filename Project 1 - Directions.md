@@ -1,13 +1,13 @@
 # A New Farmer's Guide to Managing a Fresh Cow
- For beginning dairy farmers in southwest Missouri, one of the first steps should be creating a fresh cow protocol for their area.  The College of the Ozarks dairy has a specific protocol for taking care of cows before and after calving.  It is appropriate for the area and is simple to follow for new farmers.  This protocol is important because it determines in the success of the cow after she calves. When a farm sets protocols into place, they will grow stronger calves and their cows will heal quickly after calving.   Applying udder comfort, administering oxytocin, taking temperature, and giving boluses are the four steps that will be discussed.  These steps are put into place to ensure the College of the Ozarks cows stay happy and healthy throughout their lives.
+  For beginning dairy farmers in southwest Missouri, one of the first steps should be creating a fresh cow protocol for their area.  The College of the Ozarks dairy has a specific protocol for taking care of cows before and after calving.  It is appropriate for the area and is simple to follow for new farmers.  This protocol is important because it determines in the success of the cow after she calves. When a farm sets protocols into place, they will grow stronger calves and their cows will heal quickly after calving.   Applying udder comfort, administering oxytocin, taking temperature, and giving boluses are the four steps that will be discussed.  These steps are put into place to ensure the College of the Ozarks cows stay happy and healthy throughout their lives.
 
- There are different types of protocols that farms use depending on their location.  For southern Missouri, the changing climate and landscape require farmers to provide the essential nutrients that are not offered in the area through natural vegetation.  Without proper protocols set into place, cows could become ill and decrease their productive life.  College of the Ozarks’ protocol has been formulated by professional nutritionists and incorporates all the required nutrients for fresh dairy cows. 
+  There are different types of protocols that farms use depending on their location.  For southern Missouri, the changing climate and landscape require farmers to provide the essential nutrients that are not offered in the area through natural vegetation.  Without proper protocols set into place, cows could become ill and decrease their productive life.  College of the Ozarks’ protocol has been formulated by professional nutritionists and incorporates all the required nutrients for fresh dairy cows. 
 
 ## Pre-Calving
 
  - Apply udder comfort to the udder for 4 days prior to the cow’s due date. 
  
- There is only one step that occurs pre-calving; however, this step is extremely important.  Udder comfort is a blue rub that provides a relaxing feel to the udder.  This decreases the swelling that occurs pre-calving and allows the cow to produce higher milk yields earlier in her lactation.  
+  There is only one step that occurs pre-calving; however, this step is extremely important.  Udder comfort is a blue rub that provides a relaxing feel to the udder.  This decreases the swelling that occurs pre-calving and allows the cow to produce higher milk yields earlier in her lactation.  
 ## Post-Calving
 ### Immediately after calving
 #### Step 1
