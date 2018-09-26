@@ -37,6 +37,11 @@ Insert a glass thermometer into the cow's rectum and hold for one minute.  Norma
 #### Step 6
 - 1cc oxytocin
 
+When the cow is about to be milked for the second time after calving, she still is incapable of letting 100% of her milk down on her own due to swelling in her udder.  The dosage is reduced; however, still necessary for her to be properly milked out.  
+
 ## 24 hours post calving
 #### Step 7
 - 1 fresh cow bolus
+
+After one full day post-calving, the cow is ready for her second BioFresh bolus.  The purpose of waiting 24 hours is to allow the first bolus to act.  By now, the first bolus has been used by the cow’s body. To boost her chances for a quick recovery and strengthen her immune system, a second bolus is essential.  
+
