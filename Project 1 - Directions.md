@@ -31,7 +31,7 @@ Use a generic balling gun to administer the bolus to the cow.  Fresh cow boluses
 #### Step 5
 - Take the cow's temperature.
 
-Insert a glass thermometer into the cow's rectum and hold for one minute.  Normal body temperature for dairy cows should be 101.5 degrees Fahrenheit.  A farmer should always check the cow's temperature becuase this is generally one of the first indicators of sickness.  Fresh cows are at risk of coming down with illnesses before or after calving with little physical signs.  When a farmer takes the cow's temperature, he is ultimatly decreasing the chance of an unexpected illness.
+Insert a glass thermometer into the cow's rectum and hold for one minute.  Normal body temperature for dairy cows should be 101.5 degrees Fahrenheit.  A farmer should always check the cow's temperature because this is generally one of the first indicators of sickness.  Fresh cows are at risk of coming down with illnesses before or after calving with little physical signs.  When a farmer takes the cow's temperature, he is ultimately decreasing the chance of an unexpected illness.
 
 ## 12 hours post calving
 #### Step 6
