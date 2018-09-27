@@ -51,6 +51,8 @@ After one full day post-calving, the cow is ready for her second BioFresh bolus.
 
 #### ***Conclusion*** 
 
+Choosing to create protocols is the best decision a new farmer can make when starting up, while following the protocols to ensure a successful lactation for the cows comes in at a close second.  Without fresh cow protocols, the cows have a high risk of developing health issues soon after calving.  College of the Ozarks designed a system which gives their cows an extremely bright future.  By following these steps, farmers can be assured that they will raise happy and healthy cows.    
+
 # FAQ
 1. Q: Can I skip a step if I’m rushed? 
 
