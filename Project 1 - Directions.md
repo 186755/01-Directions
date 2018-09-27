@@ -68,4 +68,4 @@ A: The boluses are designed to slowly release inside the cow; therefore, if one 
 
 4. Q: Do any of the treatments require a milk withhold? 
 
-A: None of the steps above require milk withholds; however, fresh cows do not need to go directly into the tank.  It is important to wait at least three days before milking a cow into the tank to ensure she has produced all of her colostrum and is now making normal milk.
+A: None of the steps above require milk withholds; however, fresh cows do not need to go directly into the tank.  It is important to wait at least three days before milking a cow into the tank to ensure she has produced all of her colostrum and is now making normal milk. 
