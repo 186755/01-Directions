@@ -23,7 +23,7 @@ Oxytocin is a hormone that induces milk letdown.  When a cow or heifer calves, s
 #### Step 3
 - Give 2 calcium boluses 
 
-
+Using a specialized bolus gun, administer one bolus at a time to the cow.  Calcium boluses are given to supply calcium to the cow after she calves.  When a cow calves, all the calcium in her body goes straight to producing milk, leaving none for her regular body requirements.  This bolus assists in preventing milk fever in older cows and reducing somatic cell count levels in cows of all ages.
 
 #### Step 4
 - Give 1 BioFresh bolus 
