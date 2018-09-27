@@ -41,7 +41,7 @@ Insert a glass thermometer into the cow's rectum and hold for one minute.  Norma
 #### Step 6
 - 1cc oxytocin
 
-When the cow is about to be milked for the second time after calving, she still is incapable of letting 100% of her milk down on her own due to swelling in her udder.  The dosage is reduced; however, still necessary for her to be properly milked out.  
+When the cow is about to be milked for the second time after calving, she is still incapable of letting 100% of her milk down on her own due to swelling in her udder.  The dosage is reduced; however, still necessary for her to be properly milked out.  
 
 ## 24 hours post calving
 #### Step 7
