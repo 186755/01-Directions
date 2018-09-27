@@ -1,5 +1,5 @@
 # A New Farmer's Guide to Managing a Fresh Cow Using College of the Ozarks' Protocols
-   ##### *Introduction*
+   #### ***Introduction***
    
    For beginning dairy farmers in southwest Missouri, one of the first steps should be creating a fresh cow protocol for their area.  The College of the Ozarks' dairy has a specific protocol for taking care of cows before and after calving.  This protocol will be taken apart step by step to provide an understanding of why treatments are done in certain ways, and give new farmers ideas for thier own (if a different protocol is desired).  It is appropriate for the area and is simple to follow for new farmers.  This protocol is important because it determines the success of the cow after she calves. When a farm sets protocols into place, they will grow stronger calves and their cows will heal quickly after calving.   Applying udder comfort, administering oxytocin, taking temperature, and giving boluses are the steps that will be discussed in further detail.  These steps are put into place to ensure the College of the Ozarks' cows stay happy and healthy throughout their lives.
 
@@ -49,7 +49,7 @@ When the cow is about to be milked for the second time after calving, she still 
 
 After one full day post-calving, the cow is ready for her second BioFresh bolus.  The purpose of waiting 24 hours is to allow the first bolus to act.  By now, the first bolus has been used by the cow’s body. To boost her chances for a quick recovery and strengthen her immune system, a second bolus is essential.  
 
-##### *Conclusion* 
+#### ***Conclusion*** 
 
 # FAQ
 1. Q: Can I skip a step if I’m rushed? 
